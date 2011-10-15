@@ -1,3 +1,4 @@
+<?php $this->title($text);?>
 <?php if (!empty($results)):?>
 	<h2>Result:</h2>
 	<?php foreach($results as $method => $result): ?>
